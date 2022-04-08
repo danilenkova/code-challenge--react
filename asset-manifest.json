@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/code-challenge--react/static/css/main.3e341850.css",
+    "main.js": "/code-challenge--react/static/js/main.f677b7c1.js",
+    "static/media/dog-bg-desktop.jpeg": "/code-challenge--react/static/media/dog-bg-desktop.fa8f365cbc2f8559a7df.jpeg",
+    "static/media/dog-bg-mobile.jpeg": "/code-challenge--react/static/media/dog-bg-mobile.3c48064a97f3f8a858e8.jpeg",
+    "static/media/logo.svg": "/code-challenge--react/static/media/logo.d8703627c63135743d87c8c5332459c3.svg",
+    "static/media/location-marker.svg": "/code-challenge--react/static/media/location-marker.cf143f6148e797d727ef5a48e8fd4347.svg",
+    "index.html": "/code-challenge--react/index.html",
+    "static/media/menu.svg": "/code-challenge--react/static/media/menu.3e8c828ad15b14057a10506fc91e7432.svg",
+    "main.3e341850.css.map": "/code-challenge--react/static/css/main.3e341850.css.map",
+    "main.f677b7c1.js.map": "/code-challenge--react/static/js/main.f677b7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e341850.css",
+    "static/js/main.f677b7c1.js"
+  ]
+}
